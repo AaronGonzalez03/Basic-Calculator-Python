@@ -48,10 +48,6 @@ Through this project, I gained hands-on experience with:
     bash
 git clone https://github.com/AaronGonzalez03/Basic-Calculator-Python.git
 
-2. Navigate to the project directory:
-    
-cd Basic-Calculator-Python
+2. Navigate to the project directory: cd Basic-Calculator-Python
 
-3. Run the calculator:
-    
-python calculator.py
+3. Run the calculator: python3 basic.calculator.py
