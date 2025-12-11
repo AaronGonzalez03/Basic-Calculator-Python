@@ -49,9 +49,9 @@ Through this project, I gained hands-on experience with:
 git clone https://github.com/AaronGonzalez03/Basic-Calculator-Python.git
 
 2. Navigate to the project directory:
-    bash
+    
 cd Basic-Calculator-Python
 
 3. Run the calculator:
-    bash
+    
 python calculator.py
