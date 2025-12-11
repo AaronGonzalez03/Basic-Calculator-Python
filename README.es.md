@@ -50,6 +50,6 @@ A través de este proyecto, gané experiencia práctica con:
     bash
 git clone https://github.com/AaronGonzalez03/Basic-Calculator-Python.git
 
-2. Navegar al directorio del proyecto: Basic-Calculator-Python
+2. Navegar al directorio del proyecto: Basic-Calculator-Python 
 
 3. Ejecutar la calculadora: python3 basic.calculator.py
